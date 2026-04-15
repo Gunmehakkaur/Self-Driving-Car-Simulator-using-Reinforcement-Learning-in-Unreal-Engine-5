@@ -1,0 +1,11 @@
+[20608:7716:0409/115134.819:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24212:4396:0409/115134.819:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5516:11880:0409/115134.819:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5516:11880:0409/115135.282:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
+[20608:7716:0409/115135.282:ERROR:main_runner.cc(122)] ContentMainRun failed with exit code 21
+[24212:4396:0409/115207.989:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24212:4396:0409/115338.134:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[20988:10092:0409/115351.043:ERROR:frame_impl.cc(537)] frame 5-F2EDE84D21E70E116456E0C47679358F connection timeout
+[24212:4396:0409/121131.996:ERROR:device_event_log_impl.cc(196)] [12:11:31.464] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[24212:4396:0409/121132.115:ERROR:device_event_log_impl.cc(196)] [12:11:31.468] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[24212:4396:0409/121437.847:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,0 +1,9 @@
+[20060:856:0408/230332.895:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20060:856:0408/230342.991:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4324:11328:0408/230444.146:ERROR:frame_impl.cc(537)] frame 5-9B6992F0B0E88B792E35875A25FDCDBC connection timeout
+[4324:11328:0408/230455.170:ERROR:frame_impl.cc(537)] frame 5-9B6992F0B0E88B792E35875A25FDCDBC connection timeout
+[4324:11328:0408/230506.185:ERROR:frame_impl.cc(537)] frame 5-9B6992F0B0E88B792E35875A25FDCDBC connection timeout
+[4324:11328:0408/230517.195:ERROR:frame_impl.cc(537)] frame 5-9B6992F0B0E88B792E35875A25FDCDBC connection timeout
+[4324:11328:0408/230517.196:FATAL:frame_impl.cc(648)] frame 5-9B6992F0B0E88B792E35875A25FDCDBC connection retry failed (reason=CONNECT_TIMEOUT, current_state=CONNECTION_PENDING)
+[20060:20096:0408/230541.571:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[20060:856:0408/231231.239:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
